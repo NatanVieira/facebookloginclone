@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.principal {
+    height: 100%;
+}
+
+.segundo {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quadrado {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
